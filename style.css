@@ -1,0 +1,405 @@
+body {
+  font-family: url("https://fonts.googleapis.com/css2?family=Karla&family=Lora&family=Oswald&family=Rubik+Gemstones&family=Young+Serif&display=swap");
+}
+
+/* Section start */
+
+.section2 img {
+  width: 100%;
+}
+
+.section3 .container .col-4 .card111 .card-body h4 {
+  color: #1d1f2e;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 32px;
+  margin-top: 29px;
+}
+
+.section3 .p4444455 {
+  color: rgba(29, 31, 46, 0.7);
+  font-size: 16px;  
+  font-weight: 400;
+  line-height: 28px;
+}
+
+/* Section end */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.secrow {
+  width: 960px;
+  justify-content: center;
+  margin-bottom: 130px;
+}
+
+.sarlavha {
+  width: 658px;
+  height: 262px;
+}
+
+.sarlavha h3 {
+  color: #1d1f2e;
+  text-align: center;
+  font-family: Karla;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 40px;
+  margin-bottom: 15px;
+}
+
+.srp {
+  color: rgba(29, 31, 46, 0.7);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.sarlavha h5 {
+  color: #a25f4b;
+  text-align: center;
+  font-family: Karla;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.linesarlav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lineee {
+  width: 133px;
+  height: 2px;
+  background-color: rgba(162, 95, 75, 0.2);
+}
+
+/*  */
+
+.liniyaichida1 {
+  display: flex;
+  height: 18px;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 102px;
+  margin-bottom: 100px;
+}
+
+.line2ta1 {
+  width: 30px;
+  height: 1px;
+  background: #ececed;
+}
+
+.liniyaichida1 h4 {
+  width: 120px;
+  color: #1d1f2e;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+}
+
+/*  */
+
+.se,
+.se2 {
+  width: 480px;
+  height: 653px;
+  text-align: center;
+}
+
+.se h6 {
+  color: #1d1f2e;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 35px;
+  margin-bottom: 5px;
+}
+
+.se p {
+  color: rgba(29, 31, 46, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.se2 h6 {
+  color: #1d1f2e;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 35px;
+}
+
+.se2 .ptegi {
+  display: flex;
+  height: 47px;
+  padding-bottom: 0px;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.se2 .p1 {
+  height: 32px;
+  color: #a25f4b;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.se2 .ptegi .p2 {
+  height: 28px;
+  color: rgba(29, 31, 46, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 15px;
+  text-decoration-line: line-through;
+}
+
+/*  */
+
+.liniyaichida2 {
+  display: flex;
+  height: 18px;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.line2ta2 {
+  width: 30px;
+  height: 1px;
+  background: #ececed;
+}
+
+.liniyaichida2 h4 {
+  width: 124px;
+  color: #1d1f2e;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+}
+
+/*  */
+
+.rasm9 {
+  width: 980px;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+}
+
+.se33 {
+  width: 316.797px;
+  height: 497px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.se3 {
+  width: 316.797px;
+  height: 497px;
+  margin-top: 50px;
+}
+
+.se3 h6,
+.se33 h6 {
+  color: #1d1f2e;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 35px;
+  margin-bottom: 5px;
+}
+
+.se3 .ptegi2,
+.se33 .ptegi2 {
+  display: flex;
+  height: 47px;
+  padding-bottom: 0px;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.se3 .ptegi2 .p3,
+.se33 .ptegi2 .p3 {
+  width: 62px;
+  color: #a25f4b;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.se3 .ptegi2 .p4,
+.se33 .ptegi2 .p4 {
+  width: 89px;
+  color: rgba(29, 31, 46, 0.4);
+  font-family: Karla;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-decoration-line: line-through;
+  margin-bottom: 15px;
+}
+
+.se3 p {
+  color: rgba(29, 31, 46, 0.7);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+/*  */
+
+.liniyaichida3 {
+  display: flex;
+  height: 18px;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.line2ta3 {
+  width: 30px;
+  height: 1px;
+  background: #ececed;
+}
+
+.liniyaichida3 h4 {
+  width: 354px;
+  color: #1d1f2e;
+  text-align: center;
+  font-family: calc();
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+/*  */
+
+.engpas {
+  display: flex;
+  height: 280px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 0px;
+}
+
+.engpas .col-6 {
+  display: flex;
+  width: 460px;
+  height: 280px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.ta2 {
+  display: flex;
+  width: 160px;
+  height: 280px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.chisi2 {
+  display: flex;
+  width: 460px;
+  height: 273px;
+  padding: 0px 0px 17.5px 60px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 38.5px;
+}
+
+.chisi2 button {
+  width: 173px;
+  height: 35px;
+  flex-shrink: 0;
+  background: #1d1f2e;
+  color: #fff;
+  text-align: center;
+  font-family: Karla;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px; /* 150% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.chisi2 .col {
+  display: flex;
+  width: 400px;
+  padding-top: 0.5px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.chisi2 .col .col-12 {
+  width: 400px;
+  height: 18px;
+}
+
+.chisi2 .col .col-12 h6 {
+  color: #1d1f2e;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+.chisi2 .col h5 {
+  width: 237px;
+  color: #1d1f2e;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 50px;
+  margin-bottom: 0px;
+}
+
+.chisi2 p {
+  width: 353px;
+  color: rgba(29, 31, 46, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 0px;
+}
